@@ -1,0 +1,2 @@
+This is a plain text sample file for AudioReader testing.
+It has multiple lines and paragraphs.
